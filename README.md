@@ -1,1 +1,2 @@
 # What-is-Robotics-
+## I think Robotics is a type of technological advancement that requires one to understand the programming language and construction of robots. Robots are basically a machine that has been order to follow a set of commands set by its developer and creator. Robotics and robots go together and are utilized for common purposes. Usually Robotics help engineers and IT developer prepare for the new future of the world where robots can do simple human tasks. 
